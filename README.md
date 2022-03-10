@@ -1,5 +1,9 @@
 # SQL Practice
 
+This repository is for practicing SQL.
+
+You can play with the sample data ([Sakila sample Database](https://dev.mysql.com/doc/sakila/en/)) distributed by MySQL.
+
 ## Makefile
 
 `make up` => start up docker containers
